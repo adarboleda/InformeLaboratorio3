@@ -5,19 +5,11 @@
 
 Objetivo General:
 
-* Realizar una simulacion de un circuito y comprobar los resultados de análisis de mallas.
 
 Objetivos Específicos:
 
-* Explicar como funciona el método de la corriente de malla mediante la utilización de la LVK.
-
-* Comprobar los valores de las corrientes obtenidas teóricamente en los métodos de análisis con datos experimentales.
-
 
 2. MARCO TEÓRICO 
-
-![image](https://user-images.githubusercontent.com/93733175/143030189-a7c1e617-8e49-4ba6-8a65-2579daf05835.png)
-
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -58,19 +50,9 @@ en la tabla 2.1.
 
 5. VIDEO
 
-https://youtu.be/qcyLs-nRXgY
-
 6. CONCLUSIONES
 
-•	El método de la corriente de malla es el procedimiento de hallar las corrientes de cada malla que son espacios creados debido a una o más conexiones en paralelo donde para realizar el procedimiento se necesita conocer la ley de voltajes de Kirchhoff para poder realizar un sistema de ecuaciones debido a que cada malla constará de una sumatoria de voltajes y posterior se realizará el cambio de variable a la equivalencia del voltaje, V =  I * R para establecer ecuaciones en función de las corrientes que se necesiten hallar.
-
-•	Las corrientes obtenidas a partir del método de corriente de mallas que utiliza y es referente a la ley de voltaje de Kirchhoff es igual a las corrientes medidas en un circuito simulado, entonces, el método de corrientes de mallas si es factible para medir la corriente. 
-
-
 7. BIBLIOGRAFÍA
-
-Instituto Tecnológico de Tláhuac. (s.f.). Circuitos Eléctricos I. Recuperado el 23 de Noviembre de 2021, de Análisis de Mallas: https://sites.google.com/site/e91mediosdiitalesricardotrejo/home/1-6-analisis-de-mallas
-
 
 RUBRICA
 
