@@ -37,18 +37,18 @@ Finalmente se tiene como resultado
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-2.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados
-en la tabla 2.1.
+3.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en
+la tabla 3.1.
 
-![image](https://user-images.githubusercontent.com/93734334/143484517-195ff616-2754-4774-8463-faaf064b6595.png)
+![image](https://user-images.githubusercontent.com/93734334/143769557-36481069-ec5c-4a46-84d7-d6cd78d937a6.png)
 
-![image](https://user-images.githubusercontent.com/93734334/142776133-f44936ec-7cbe-4473-960f-193a35e34ceb.png)
+![image](https://user-images.githubusercontent.com/93734334/143769565-0a14d300-3d17-433f-871b-9fb43423db2d.png)
 
-2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
+3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
-![image](https://user-images.githubusercontent.com/93734334/143484766-96a0297b-cc0d-4674-8a66-066dc2e5a6a3.png)
+![image](https://user-images.githubusercontent.com/93734334/143769595-6a68fe11-3b20-42fc-a10b-ee4ca9d32499.png)
 
-* Como se observa en los valores de la tabla 2.1, los valores calculados y los valores medidos en el simulador no difieren, es decir son iguales por lo tanto no existe error, el primer valor de 11.45 lo que se hace es redondear a 11.5 y es igual al valor que proporciona el simulador, de igual manera pasa con los otros valores dados con redondeo los valores son iguales. 
+* Como se observa en los valores de la tabla 3.1, los valores calculados y los valores medidos en los simuladores no difieren, es decir son iguales por lo tanto no existe error, aunque en los valos experimentales existe mayor presicion, redondeando estos valores y trabajando con dos cifras decimales se obtien exactamnete los mismos valores. Por lo que si se trabaja con cualquier metodo para el analisis de nodos se obtendra los mismos resultados.
 
 5. VIDEO
 
