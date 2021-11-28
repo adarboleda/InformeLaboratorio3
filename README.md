@@ -15,23 +15,25 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/143767972-c1fc0654-a1ef-41f1-95d7-8ba906c54d2d.png)
 
-En el siguiente circuito mixto lo primero que se va a hacer es identificar las corrientes que pasan por cada una de las tres mallas.
+En el siguiente circuito mixto lo primero que se va a hacer es identificar los nodos principales donde se va a hallar los respectivos voltajes pedidos. 
 
-![image](https://user-images.githubusercontent.com/93734334/142775627-26ae29d7-4e81-42e2-b193-d185d8e6abbf.png)
+![image](https://user-images.githubusercontent.com/93734334/143769171-23b45004-708f-4edb-b36b-cf68a2693bb7.png)
 
-A continuación se va a hacer los calculos utilizando la ley de voltajes de Kirchoff para hallar las tres corrientes.
+A continuación se va a hacer los calculos utilizando la ley de corrietnes de Kirchoff para hallar los dos voltajes.
 
-![image](https://user-images.githubusercontent.com/93734334/142775797-8f1bf859-c848-4242-839c-495b87d69b4f.png)
+![image](https://user-images.githubusercontent.com/93734334/143769238-de14edd2-06d5-413a-be12-1d2af2c9ff02.png)
+
+![image](https://user-images.githubusercontent.com/93734334/143769263-d853978d-82c7-4591-a822-e368181481e1.png)
 
 Se resuelve el sistema de ecuaciones reemplazando en una aplicacion web que resuelve estos problemas.
 
-![image](https://user-images.githubusercontent.com/93734334/142775917-1fd34b74-804d-425e-98f7-857766a24d0a.png)
+![image](https://user-images.githubusercontent.com/93734334/143769321-39af1bf0-d4ff-4a3b-ae82-bb4bc660e999.png)
 
-![image](https://user-images.githubusercontent.com/93734334/142775921-014737ae-e94e-47ff-8000-330546d98387.png)
+![image](https://user-images.githubusercontent.com/93734334/143769326-0b704cd2-7b0a-4b90-8905-c022521b103a.png)
 
 Finalmente se tiene como resultado
 
-![image](https://user-images.githubusercontent.com/93734334/142775975-647354c6-fa61-4275-ae01-2e34e5a3356b.png)
+![image](https://user-images.githubusercontent.com/93734334/143769298-764fb887-fe35-46ac-8177-0d16c1e1cbf2.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
