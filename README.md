@@ -5,9 +5,13 @@
 
 Objetivo General:
 
+* Realizar una simulación de un circuito y comprobar resultados con el análisis de nodos. 
 
 Objetivos Específicos:
 
+* Explicar en qué consiste el método del voltaje en nodos mediante la ley de la corriente de Kirchhoff.
+
+* Comparar el valor de cada medición de voltaje obtenidos en cada nodo.
 
 2. MARCO TEÓRICO 
 
