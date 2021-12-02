@@ -58,6 +58,8 @@ la tabla 3.1.
 
 5. VIDEO
 
+https://youtu.be/2jPCms6-q4o
+
 6. CONCLUSIONES
 
 * El método de voltaje de nodos consiste en hallar nodos principales con la mayor cantidad de ramas para poder reconocer las corrientes que salen de ese nodo remplazar la corriente en terminos de voltaje y resistencia y poder realizar un sistema de ecuaciones para hallar los voltajes en cada nodo.
